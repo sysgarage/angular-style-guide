@@ -1,4 +1,4 @@
-# Angular Style Guide
+# SysGarage Angular Style Guide
 
 ## Table of Contents
 
